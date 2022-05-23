@@ -32,7 +32,7 @@
 		"cz:force": "commitizen init cz-conventional-changelog --yarn --dev --exact --force"
 	},
 	"peerDependencies": {},
-	"name": "@grid-momenta/template-ts-lib",
+	"name": "@grid-momenta/test-ts-fp",
 	"author": "DHN Chandan",
 	"module": "dist/template-ts-lib.esm.js",
 	"size-limit": [
